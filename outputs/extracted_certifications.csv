@@ -1,0 +1,8 @@
+candidate_id,certification_name,issuing_organization,year_obtained
+CV001,IBM Data Analyst Professional Certificate,IBM,2021
+CV001,Google Data Analytics Certificate,Google,2022
+CV002,AWS Certified Machine Learning Specialty,Amazon Web Services,2020
+CV002,Databricks Certified Associate Developer,Databricks,2021
+CV002,TensorFlow Developer Certificate,Google,2022
+CV004,IBM Machine Learning Professional Certificate,IBM,2018
+CV004,AWS Certified Data Analytics Specialty,Amazon Web Services,2020

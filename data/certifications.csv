@@ -1,0 +1,49 @@
+candidate_id,certification_name,issuing_organization,year_obtained
+CV001,IBM Data Analyst Professional Certificate,IBM,2021
+CV001,Google Data Analytics Certificate,Google,2022
+CV002,AWS Certified Machine Learning Specialty,Amazon Web Services,2020
+CV002,Databricks Certified Associate Developer,Databricks,2021
+CV002,TensorFlow Developer Certificate,Google,2022
+CV004,IBM Machine Learning Professional Certificate,IBM,2018
+CV004,AWS Certified Data Analytics Specialty,Amazon Web Services,2020
+CV006,AWS Certified Solutions Architect,Amazon Web Services,2021
+CV006,TensorFlow Developer Certificate,Google,2023
+CV007,Project Management Professional,Project Management Institute,2019
+CV007,IBM Data Science Professional Certificate,IBM,2020
+CV009,Microsoft Certified Power BI Data Analyst,Microsoft,2021
+CV009,Oracle Database SQL Certified Associate,Oracle,2020
+CV011,Google Professional Machine Learning Engineer,Google,2021
+CV011,AWS Certified Data Analytics Specialty,Amazon Web Services,2022
+CV011,Databricks Certified Machine Learning Associate,Databricks,2023
+CV013,Microsoft Azure Data Engineer Associate,Microsoft,2021
+CV013,Apache Kafka Certified Developer,Confluent,2022
+CV015,CFA Level 1,CFA Institute,2018
+CV015,Microsoft Certified Power BI Data Analyst,Microsoft,2020
+CV017,Deep Learning Specialization,Coursera / DeepLearning.AI,2020
+CV017,TensorFlow Developer Certificate,Google,2021
+CV017,Natural Language Processing Specialization,Coursera / DeepLearning.AI,2022
+CV020,SAS Certified Advanced Analytics Professional,SAS Institute,2019
+CV020,IBM Data Science Professional Certificate,IBM,2021
+CV022,Project Management Professional,Project Management Institute,2018
+CV022,Google Data Analytics Certificate,Google,2021
+CV024,AWS Certified Data Analytics Specialty,Amazon Web Services,2019
+CV024,Microsoft Azure Data Scientist Associate,Microsoft,2021
+CV024,IBM Machine Learning Professional Certificate,IBM,2022
+CV026,IBM Data Science Professional Certificate,IBM,2022
+CV028,Apache Kafka Certified Developer,Confluent,2020
+CV028,AWS Certified Data Analytics Specialty,Amazon Web Services,2021
+CV028,Microsoft Azure Data Engineer Associate,Microsoft,2023
+CV030,Microsoft Certified Power BI Data Analyst,Microsoft,2020
+CV030,Oracle Database SQL Certified Associate,Oracle,2021
+CV032,Project Management Professional,Project Management Institute,2019
+CV032,Google Data Analytics Certificate,Google,2022
+CV034,Google Professional Machine Learning Engineer,Google,2018
+CV034,TensorFlow Developer Certificate,Google,2019
+CV034,AWS Certified Machine Learning Specialty,Amazon Web Services,2021
+CV034,Deep Learning Specialization,Coursera / DeepLearning.AI,2020
+CV035,IBM Data Analyst Professional Certificate,IBM,2023
+CV038,IBM Data Science Professional Certificate,IBM,2020
+CV038,SAS Certified Clinical Trials Programmer,SAS Institute,2022
+CV040,AWS Certified Solutions Architect,Amazon Web Services,2020
+CV040,Google Professional Data Engineer,Google,2022
+CV040,Apache Kafka Certified Developer,Confluent,2023

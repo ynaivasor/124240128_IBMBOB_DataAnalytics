@@ -1,0 +1,246 @@
+[
+  {
+    "candidate_id": "CV001",
+    "cv_source_file": "cv_001.pdf",
+    "extraction_date": "2026-11-06",
+    "personal_info": {
+      "full_name": "Alice Monroe",
+      "email": "alice.monroe@example.com",
+      "phone": "+1-555-0101",
+      "city": "Chicago",
+      "country": "USA"
+    },
+    "education": {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "institution": "Northgate University",
+      "graduation_year": "2019"
+    },
+    "experience": {
+      "current_job_title": "Data Analyst",
+      "current_company": "TechVision Inc.",
+      "industry": "Technology",
+      "years_of_experience": "4.5",
+      "previous_job_title": "Junior Data Analyst",
+      "seniority_level": "Mid-level"
+    },
+    "skills": {
+      "technical": [
+        "Python",
+        "SQL",
+        "Tableau",
+        "Excel",
+        "Pandas"
+      ],
+      "soft": [
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    "certifications": [
+      {
+        "certification_name": "IBM Data Analyst Professional Certificate",
+        "issuing_organization": "IBM",
+        "year_obtained": "2021"
+      },
+      {
+        "certification_name": "Google Data Analytics Certificate",
+        "issuing_organization": "Google",
+        "year_obtained": "2022"
+      }
+    ],
+    "languages": "English; French"
+  },
+  {
+    "candidate_id": "CV002",
+    "cv_source_file": "cv_002.pdf",
+    "extraction_date": "2026-11-06",
+    "personal_info": {
+      "full_name": "James Patel",
+      "email": "james.patel@example.com",
+      "phone": "+44-7911-000102",
+      "city": "London",
+      "country": "UK"
+    },
+    "education": {
+      "degree": "Master of Science",
+      "field_of_study": "Data Science",
+      "institution": "Redwood Institute of Technology",
+      "graduation_year": "2017"
+    },
+    "experience": {
+      "current_job_title": "Senior Data Scientist",
+      "current_company": "FinSight Analytics",
+      "industry": "Finance",
+      "years_of_experience": "8",
+      "previous_job_title": "Data Scientist",
+      "seniority_level": "Mid-level"
+    },
+    "skills": {
+      "technical": [
+        "Python",
+        "R",
+        "Apache Spark",
+        "Machine Learning",
+        "SQL",
+        "TensorFlow"
+      ],
+      "soft": [
+        "Leadership",
+        "Critical Thinking"
+      ]
+    },
+    "certifications": [
+      {
+        "certification_name": "AWS Certified Machine Learning Specialty",
+        "issuing_organization": "Amazon Web Services",
+        "year_obtained": "2020"
+      },
+      {
+        "certification_name": "Databricks Certified Associate Developer",
+        "issuing_organization": "Databricks",
+        "year_obtained": "2021"
+      },
+      {
+        "certification_name": "TensorFlow Developer Certificate",
+        "issuing_organization": "Google",
+        "year_obtained": "2022"
+      }
+    ],
+    "languages": "English; Hindi"
+  },
+  {
+    "candidate_id": "CV003",
+    "cv_source_file": "cv_003.pdf",
+    "extraction_date": "2026-11-06",
+    "personal_info": {
+      "full_name": "Sofia Reyes",
+      "email": "sofia.reyes@example.com",
+      "phone": "+52-55-0000-0103",
+      "city": "Mexico City",
+      "country": "Mexico"
+    },
+    "education": {
+      "degree": "Bachelor of Business Administration",
+      "field_of_study": "Business Administration",
+      "institution": "Westbrook Business School",
+      "graduation_year": "2022"
+    },
+    "experience": {
+      "current_job_title": "Business Analyst",
+      "current_company": "RetailEdge Corp.",
+      "industry": "Retail",
+      "years_of_experience": "2.0",
+      "previous_job_title": "N/A",
+      "seniority_level": "Entry-level"
+    },
+    "skills": {
+      "technical": [
+        "Excel",
+        "Power BI",
+        "SQL",
+        "Microsoft Office Suite"
+      ],
+      "soft": [
+        "Communication",
+        "Teamwork",
+        "Time Management"
+      ]
+    },
+    "certifications": [],
+    "languages": "English; Spanish"
+  },
+  {
+    "candidate_id": "CV004",
+    "cv_source_file": "cv_004.pdf",
+    "extraction_date": "2026-11-06",
+    "personal_info": {
+      "full_name": "Liam Chen",
+      "email": "liam.chen@example.com",
+      "phone": "+1-555-0104",
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    "education": {
+      "degree": "Doctor of Philosophy",
+      "field_of_study": "Statistics",
+      "institution": "Pacific Research University",
+      "graduation_year": "2013"
+    },
+    "experience": {
+      "current_job_title": "Lead Data Scientist",
+      "current_company": "Quantica Labs",
+      "industry": "Technology",
+      "years_of_experience": "11",
+      "previous_job_title": "Senior Data Scientist",
+      "seniority_level": "Senior"
+    },
+    "skills": {
+      "technical": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "Scikit-learn",
+        "SQL",
+        "Spark",
+        "Statistical Modelling"
+      ],
+      "soft": [
+        "Leadership",
+        "Mentoring"
+      ]
+    },
+    "certifications": [
+      {
+        "certification_name": "IBM Machine Learning Professional Certificate",
+        "issuing_organization": "IBM",
+        "year_obtained": "2018"
+      },
+      {
+        "certification_name": "AWS Certified Data Analytics Specialty",
+        "issuing_organization": "Amazon Web Services",
+        "year_obtained": "2020"
+      }
+    ],
+    "languages": "English; Mandarin"
+  },
+  {
+    "candidate_id": "CV005",
+    "cv_source_file": "cv_005.pdf",
+    "extraction_date": "2026-11-06",
+    "personal_info": {
+      "full_name": "Amara Osei",
+      "email": "amara.osei@example.com",
+      "phone": "+234-803-0000-105",
+      "city": "Lagos",
+      "country": "Nigeria"
+    },
+    "education": {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information Systems",
+      "institution": "Lagos Metro University",
+      "graduation_year": "2024"
+    },
+    "experience": {
+      "current_job_title": "Junior Data Analyst",
+      "current_company": "DataFirst Nigeria",
+      "industry": "Finance",
+      "years_of_experience": "1.0",
+      "previous_job_title": "N/A",
+      "seniority_level": "Entry-level"
+    },
+    "skills": {
+      "technical": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "soft": [
+        "Communication",
+        "Attention to Detail"
+      ]
+    },
+    "certifications": [],
+    "languages": "English; Yoruba"
+  }
+]

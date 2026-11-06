@@ -1,0 +1,307 @@
+candidate_id,skill_name,skill_type,skill_category
+CV001,Python,Technical,Programming
+CV001,SQL,Technical,Database
+CV001,Tableau,Technical,Visualisation
+CV001,Excel,Technical,Office Tools
+CV001,Pandas,Technical,Programming
+CV001,Communication,Soft,Communication
+CV001,Problem Solving,Soft,Analytical
+CV002,Python,Technical,Programming
+CV002,R,Technical,Programming
+CV002,Apache Spark,Technical,Big Data
+CV002,Machine Learning,Technical,Machine Learning
+CV002,SQL,Technical,Database
+CV002,TensorFlow,Technical,Machine Learning
+CV002,Leadership,Soft,Leadership
+CV002,Critical Thinking,Soft,Analytical
+CV003,Excel,Technical,Office Tools
+CV003,Power BI,Technical,Visualisation
+CV003,SQL,Technical,Database
+CV003,Microsoft Office Suite,Technical,Office Tools
+CV003,Communication,Soft,Communication
+CV003,Teamwork,Soft,Communication
+CV003,Time Management,Soft,Project Management
+CV004,Python,Technical,Programming
+CV004,R,Technical,Programming
+CV004,TensorFlow,Technical,Machine Learning
+CV004,Scikit-learn,Technical,Machine Learning
+CV004,SQL,Technical,Database
+CV004,Spark,Technical,Big Data
+CV004,Statistical Modelling,Technical,Machine Learning
+CV004,Leadership,Soft,Leadership
+CV004,Mentoring,Soft,Leadership
+CV005,SQL,Technical,Database
+CV005,Excel,Technical,Office Tools
+CV005,Power BI,Technical,Visualisation
+CV005,Communication,Soft,Communication
+CV005,Attention to Detail,Soft,Analytical
+CV006,Python,Technical,Programming
+CV006,TensorFlow,Technical,Machine Learning
+CV006,PyTorch,Technical,Machine Learning
+CV006,SQL,Technical,Database
+CV006,Docker,Technical,Cloud
+CV006,Kubernetes,Technical,Cloud
+CV006,AWS,Technical,Cloud
+CV006,Problem Solving,Soft,Analytical
+CV006,Collaboration,Soft,Communication
+CV007,Python,Technical,Programming
+CV007,R,Technical,Programming
+CV007,SQL,Technical,Database
+CV007,Power BI,Technical,Visualisation
+CV007,Tableau,Technical,Visualisation
+CV007,Strategic Thinking,Soft,Leadership
+CV007,Team Leadership,Soft,Leadership
+CV007,Stakeholder Management,Soft,Project Management
+CV008,Python,Technical,Programming
+CV008,SQL,Technical,Database
+CV008,Apache Kafka,Technical,Big Data
+CV008,Apache Spark,Technical,Big Data
+CV008,AWS,Technical,Cloud
+CV008,PostgreSQL,Technical,Database
+CV008,Teamwork,Soft,Communication
+CV008,Adaptability,Soft,Communication
+CV009,SQL,Technical,Database
+CV009,Power BI,Technical,Visualisation
+CV009,Tableau,Technical,Visualisation
+CV009,Oracle DB,Technical,Database
+CV009,DAX,Technical,Visualisation
+CV009,Excel,Technical,Office Tools
+CV009,Analytical Thinking,Soft,Analytical
+CV009,Communication,Soft,Communication
+CV010,Python,Technical,Programming
+CV010,SQL,Technical,Database
+CV010,Excel,Technical,Office Tools
+CV010,Statistics,Technical,Machine Learning
+CV010,Attention to Detail,Soft,Analytical
+CV010,Curiosity,Soft,Analytical
+CV011,Python,Technical,Programming
+CV011,Scala,Technical,Programming
+CV011,Apache Spark,Technical,Big Data
+CV011,Machine Learning,Technical,Machine Learning
+CV011,Deep Learning,Technical,Machine Learning
+CV011,TensorFlow,Technical,Machine Learning
+CV011,Kubernetes,Technical,Cloud
+CV011,SQL,Technical,Database
+CV011,Leadership,Soft,Leadership
+CV011,Research,Soft,Analytical
+CV012,SQL,Technical,Database
+CV012,Excel,Technical,Office Tools
+CV012,SPSS,Technical,Machine Learning
+CV012,Tableau,Technical,Visualisation
+CV012,R,Technical,Programming
+CV012,Data Cleaning,Technical,Other
+CV012,Attention to Detail,Soft,Analytical
+CV012,Report Writing,Soft,Communication
+CV013,Python,Technical,Programming
+CV013,Apache Kafka,Technical,Big Data
+CV013,Apache Spark,Technical,Big Data
+CV013,SQL,Technical,Database
+CV013,PostgreSQL,Technical,Database
+CV013,Docker,Technical,Cloud
+CV013,Azure,Technical,Cloud
+CV013,Problem Solving,Soft,Analytical
+CV013,Collaboration,Soft,Communication
+CV014,Python,Technical,Programming
+CV014,SQL,Technical,Database
+CV014,Excel,Technical,Office Tools
+CV014,Tableau,Technical,Visualisation
+CV014,Pandas,Technical,Programming
+CV014,Communication,Soft,Communication
+CV014,Adaptability,Soft,Communication
+CV015,SQL,Technical,Database
+CV015,Python,Technical,Programming
+CV015,Excel,Technical,Office Tools
+CV015,Power BI,Technical,Visualisation
+CV015,Bloomberg Terminal,Technical,Other
+CV015,Financial Modelling,Technical,Other
+CV015,Leadership,Soft,Leadership
+CV015,Negotiation,Soft,Communication
+CV016,Python,Technical,Programming
+CV016,SQL,Technical,Database
+CV016,Excel,Technical,Office Tools
+CV016,Tableau,Technical,Visualisation
+CV016,Communication,Soft,Communication
+CV016,Teamwork,Soft,Communication
+CV017,Python,Technical,Programming
+CV017,TensorFlow,Technical,Machine Learning
+CV017,PyTorch,Technical,Machine Learning
+CV017,R,Technical,Programming
+CV017,SQL,Technical,Database
+CV017,NLP,Technical,Machine Learning
+CV017,Computer Vision,Technical,Machine Learning
+CV017,Problem Solving,Soft,Analytical
+CV017,Research,Soft,Analytical
+CV018,SQL,Technical,Database
+CV018,Excel,Technical,Office Tools
+CV018,Power BI,Technical,Visualisation
+CV018,Attention to Detail,Soft,Analytical
+CV018,Teamwork,Soft,Communication
+CV019,SQL,Technical,Database
+CV019,Power BI,Technical,Visualisation
+CV019,Tableau,Technical,Visualisation
+CV019,Excel,Technical,Office Tools
+CV019,Python,Technical,Programming
+CV019,Communication,Soft,Communication
+CV019,Client Management,Soft,Project Management
+CV020,R,Technical,Programming
+CV020,Python,Technical,Programming
+CV020,SQL,Technical,Database
+CV020,SAS,Technical,Machine Learning
+CV020,SPSS,Technical,Machine Learning
+CV020,Statistical Modelling,Technical,Machine Learning
+CV020,Excel,Technical,Office Tools
+CV020,Leadership,Soft,Leadership
+CV020,Report Writing,Soft,Communication
+CV021,SQL,Technical,Database
+CV021,Excel,Technical,Office Tools
+CV021,Python,Technical,Programming
+CV021,R,Technical,Programming
+CV021,Attention to Detail,Soft,Analytical
+CV021,Communication,Soft,Communication
+CV022,Python,Technical,Programming
+CV022,SQL,Technical,Database
+CV022,Power BI,Technical,Visualisation
+CV022,Tableau,Technical,Visualisation
+CV022,Excel,Technical,Office Tools
+CV022,Strategic Planning,Soft,Leadership
+CV022,Team Leadership,Soft,Leadership
+CV022,Stakeholder Management,Soft,Project Management
+CV022,Budget Management,Soft,Project Management
+CV023,Python,Technical,Programming
+CV023,SQL,Technical,Database
+CV023,Tableau,Technical,Visualisation
+CV023,Excel,Technical,Office Tools
+CV023,Communication,Soft,Communication
+CV023,Adaptability,Soft,Communication
+CV024,Python,Technical,Programming
+CV024,R,Technical,Programming
+CV024,Machine Learning,Technical,Machine Learning
+CV024,Statistical Modelling,Technical,Machine Learning
+CV024,SQL,Technical,Database
+CV024,Spark,Technical,Big Data
+CV024,Azure,Technical,Cloud
+CV024,Leadership,Soft,Leadership
+CV024,Mentoring,Soft,Leadership
+CV024,Strategic Thinking,Soft,Leadership
+CV025,Excel,Technical,Office Tools
+CV025,SQL,Technical,Database
+CV025,Power BI,Technical,Visualisation
+CV025,Communication,Soft,Communication
+CV025,Teamwork,Soft,Communication
+CV026,Python,Technical,Programming
+CV026,R,Technical,Programming
+CV026,SQL,Technical,Database
+CV026,Scikit-learn,Technical,Machine Learning
+CV026,Statistical Modelling,Technical,Machine Learning
+CV026,Tableau,Technical,Visualisation
+CV026,Problem Solving,Soft,Analytical
+CV026,Research,Soft,Analytical
+CV027,SQL,Technical,Database
+CV027,Python,Technical,Programming
+CV027,Excel,Technical,Office Tools
+CV027,Tableau,Technical,Visualisation
+CV027,Power BI,Technical,Visualisation
+CV027,Communication,Soft,Communication
+CV027,Report Writing,Soft,Communication
+CV028,Python,Technical,Programming
+CV028,Apache Kafka,Technical,Big Data
+CV028,Apache Spark,Technical,Big Data
+CV028,SQL,Technical,Database
+CV028,AWS,Technical,Cloud
+CV028,Azure,Technical,Cloud
+CV028,PostgreSQL,Technical,Database
+CV028,Leadership,Soft,Leadership
+CV028,Mentoring,Soft,Leadership
+CV029,Python,Technical,Programming
+CV029,SQL,Technical,Database
+CV029,Java,Technical,Programming
+CV029,Excel,Technical,Office Tools
+CV029,Communication,Soft,Communication
+CV029,Adaptability,Soft,Communication
+CV030,SQL,Technical,Database
+CV030,Power BI,Technical,Visualisation
+CV030,Tableau,Technical,Visualisation
+CV030,Oracle DB,Technical,Database
+CV030,Python,Technical,Programming
+CV030,DAX,Technical,Visualisation
+CV030,Team Leadership,Soft,Leadership
+CV030,Stakeholder Management,Soft,Project Management
+CV030,Strategic Thinking,Soft,Leadership
+CV031,Python,Technical,Programming
+CV031,SQL,Technical,Database
+CV031,Excel,Technical,Office Tools
+CV031,R,Technical,Programming
+CV031,Communication,Soft,Communication
+CV031,Problem Solving,Soft,Analytical
+CV032,SQL,Technical,Database
+CV032,Power BI,Technical,Visualisation
+CV032,Tableau,Technical,Visualisation
+CV032,Excel,Technical,Office Tools
+CV032,Python,Technical,Programming
+CV032,Strategic Thinking,Soft,Leadership
+CV032,Client Management,Soft,Project Management
+CV032,Leadership,Soft,Leadership
+CV033,Excel,Technical,Office Tools
+CV033,SQL,Technical,Database
+CV033,R,Technical,Programming
+CV033,SPSS,Technical,Machine Learning
+CV033,Attention to Detail,Soft,Analytical
+CV033,Communication,Soft,Communication
+CV034,Python,Technical,Programming
+CV034,R,Technical,Programming
+CV034,TensorFlow,Technical,Machine Learning
+CV034,Scikit-learn,Technical,Machine Learning
+CV034,SQL,Technical,Database
+CV034,Spark,Technical,Big Data
+CV034,Deep Learning,Technical,Machine Learning
+CV034,NLP,Technical,Machine Learning
+CV034,Leadership,Soft,Leadership
+CV034,Strategic Thinking,Soft,Leadership
+CV034,Mentoring,Soft,Leadership
+CV035,Python,Technical,Programming
+CV035,R,Technical,Programming
+CV035,SQL,Technical,Database
+CV035,Excel,Technical,Office Tools
+CV035,QGIS,Technical,Other
+CV035,Power BI,Technical,Visualisation
+CV035,Data Cleaning,Technical,Other
+CV035,Report Writing,Soft,Communication
+CV035,Analytical Thinking,Soft,Analytical
+CV036,Python,Technical,Programming
+CV036,SQL,Technical,Database
+CV036,Tableau,Technical,Visualisation
+CV036,Excel,Technical,Office Tools
+CV036,Communication,Soft,Communication
+CV036,Teamwork,Soft,Communication
+CV037,R,Technical,Programming
+CV037,SQL,Technical,Database
+CV037,Excel,Technical,Office Tools
+CV037,SPSS,Technical,Machine Learning
+CV037,Attention to Detail,Soft,Analytical
+CV037,Report Writing,Soft,Communication
+CV038,SQL,Technical,Database
+CV038,Python,Technical,Programming
+CV038,R,Technical,Programming
+CV038,SAS,Technical,Machine Learning
+CV038,Tableau,Technical,Visualisation
+CV038,Excel,Technical,Office Tools
+CV038,HL7 FHIR,Technical,Other
+CV038,Leadership,Soft,Leadership
+CV038,Report Writing,Soft,Communication
+CV039,SQL,Technical,Database
+CV039,Python,Technical,Programming
+CV039,Excel,Technical,Office Tools
+CV039,Tableau,Technical,Visualisation
+CV039,Communication,Soft,Communication
+CV039,Attention to Detail,Soft,Analytical
+CV040,Python,Technical,Programming
+CV040,Java,Technical,Programming
+CV040,SQL,Technical,Database
+CV040,Apache Kafka,Technical,Big Data
+CV040,Apache Spark,Technical,Big Data
+CV040,Docker,Technical,Cloud
+CV040,AWS,Technical,Cloud
+CV040,GCP,Technical,Cloud
+CV040,Leadership,Soft,Leadership
+CV040,Mentoring,Soft,Leadership
+CV040,Strategic Thinking,Soft,Leadership

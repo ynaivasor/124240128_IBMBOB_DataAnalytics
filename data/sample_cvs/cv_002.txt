@@ -1,0 +1,52 @@
+================================================================================
+JAMES PATEL
+Senior Data Scientist | Finance | London, UK
+================================================================================
+
+PERSONAL INFORMATION
+Email   : james.patel@example.com
+Phone   : +44-7911-000102
+City    : London
+Country : UK
+
+PROFESSIONAL SUMMARY
+An accomplished Senior Data Scientist with 8 years of experience delivering
+machine learning and statistical solutions in the Finance industry. Expert in
+Python, R, Apache Spark, and TensorFlow. Passionate about scalable ML pipelines
+and evidence-based decision support. Based in London, UK.
+
+EDUCATION
+Master of Science — Data Science
+Redwood Institute of Technology, 2017
+
+WORK EXPERIENCE
+
+Current Role
+  Senior Data Scientist at FinSight Analytics (Finance)
+  8 years of total professional experience
+
+Previous Role
+  Data Scientist
+
+TECHNICAL SKILLS
+  • Python
+  • R
+  • Apache Spark
+  • Machine Learning
+  • SQL
+  • TensorFlow
+
+SOFT SKILLS
+  • Leadership
+  • Critical Thinking
+
+CERTIFICATIONS
+  • AWS Certified Machine Learning Specialty — Amazon Web Services (2020)
+  • Databricks Certified Associate Developer — Databricks (2021)
+  • TensorFlow Developer Certificate — Google (2022)
+
+LANGUAGES
+  English — Native
+  Hindi   — Fluent
+
+================================================================================

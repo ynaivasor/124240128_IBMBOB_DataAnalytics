@@ -1,0 +1,37 @@
+candidate_id,skill_name,skill_type,skill_category
+CV001,Python,Technical,Programming
+CV001,SQL,Technical,Database
+CV001,Tableau,Technical,Visualisation
+CV001,Excel,Technical,Office Tools
+CV001,Pandas,Technical,Programming
+CV001,Communication,Soft,Communication
+CV001,Problem Solving,Soft,Analytical
+CV002,Python,Technical,Programming
+CV002,R,Technical,Programming
+CV002,Apache Spark,Technical,Big Data
+CV002,Machine Learning,Technical,Machine Learning
+CV002,SQL,Technical,Database
+CV002,TensorFlow,Technical,Machine Learning
+CV002,Leadership,Soft,Leadership
+CV002,Critical Thinking,Soft,Analytical
+CV003,Excel,Technical,Office Tools
+CV003,Power BI,Technical,Visualisation
+CV003,SQL,Technical,Database
+CV003,Microsoft Office Suite,Technical,Office Tools
+CV003,Communication,Soft,Communication
+CV003,Teamwork,Soft,Communication
+CV003,Time Management,Soft,Project Management
+CV004,Python,Technical,Programming
+CV004,R,Technical,Programming
+CV004,TensorFlow,Technical,Machine Learning
+CV004,Scikit-learn,Technical,Machine Learning
+CV004,SQL,Technical,Database
+CV004,Spark,Technical,Big Data
+CV004,Statistical Modelling,Technical,Machine Learning
+CV004,Leadership,Soft,Leadership
+CV004,Mentoring,Soft,Leadership
+CV005,SQL,Technical,Database
+CV005,Excel,Technical,Office Tools
+CV005,Power BI,Technical,Visualisation
+CV005,Communication,Soft,Communication
+CV005,Attention to Detail,Soft,Analytical

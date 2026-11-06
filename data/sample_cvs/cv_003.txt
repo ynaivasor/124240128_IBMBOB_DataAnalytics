@@ -1,0 +1,44 @@
+================================================================================
+                        SOFIA REYES — CURRICULUM VITAE
+================================================================================
+
+PERSONAL INFORMATION
+Name:     Sofia Reyes
+Email:    sofia.reyes@example.com
+Phone:    +52-55-0000-0103
+Location: Mexico City, Mexico
+
+PROFESSIONAL SUMMARY
+I am a Junior Business Analyst with 2 years of experience working in the Retail
+industry. I graduated in 2022 with a Bachelor of Business Administration in
+Business Administration from Westbrook Business School. I am currently employed
+at RetailEdge Corp. as a Business Analyst, where I focus on analysing sales data
+and supporting strategic planning. I am eager to grow my analytical career and
+expand my technical skill set.
+
+EDUCATION
+Degree          : Bachelor of Business Administration
+Field of Study  : Business Administration
+Institution     : Westbrook Business School
+Graduation Year : 2022
+
+WORK EXPERIENCE
+Current Job Title  : Business Analyst
+Current Employer   : RetailEdge Corp.
+Industry           : Retail
+Years of Experience: 2.0
+Previous Role      : N/A (first professional role)
+
+TECHNICAL SKILLS
+Excel, Power BI, SQL, Microsoft Office Suite
+
+SOFT SKILLS
+Communication, Teamwork, Time Management
+
+CERTIFICATIONS
+None
+
+LANGUAGES
+English (Fluent), Spanish (Native)
+
+================================================================================

@@ -1,0 +1,47 @@
+================================================================================
+CURRICULUM VITAE
+================================================================================
+
+PERSONAL INFORMATION
+Name    : Amara Osei
+Email   : amara.osei@example.com
+Phone   : +234-803-0000-105
+City    : Lagos
+Country : Nigeria
+
+PROFESSIONAL SUMMARY
+Recent Information Systems graduate from Lagos Metro University (2024) with
+1 year of experience as a Junior Data Analyst at DataFirst Nigeria (Finance
+sector). Proficient in SQL and Excel, with a growing understanding of Power BI.
+Eager to contribute to a data-driven team and develop analytical expertise.
+
+EDUCATION
+Degree          : Bachelor of Science
+Field of Study  : Information Systems
+Institution     : Lagos Metro University
+Graduation Year : 2024
+
+WORK EXPERIENCE
+Job Title           : Junior Data Analyst
+Company             : DataFirst Nigeria
+Industry            : Finance
+Years of Experience : 1.0
+Previous Role       : N/A
+
+TECHNICAL SKILLS
+- SQL
+- Excel
+- Power BI
+
+SOFT SKILLS
+- Communication
+- Attention to Detail
+
+CERTIFICATIONS
+None
+
+LANGUAGES
+- English (Native)
+- Yoruba (Native)
+
+================================================================================

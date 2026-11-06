@@ -1,0 +1,59 @@
+================================================================================
+                    CURRICULUM VITAE — LIAM CHEN, PhD
+================================================================================
+
+PERSONAL INFORMATION
+--------------------
+Full Name  : Liam Chen
+Email      : liam.chen@example.com
+Phone      : +1-555-0104
+City       : San Francisco
+Country    : USA
+
+PROFESSIONAL SUMMARY
+--------------------
+Lead Data Scientist with 11 years of post-doctoral industry experience
+specialising in Statistical Modelling, Machine Learning, and scalable
+data pipelines. Currently serving as Lead Data Scientist at Quantica Labs
+in the Technology sector. Holds a Doctor of Philosophy in Statistics from
+Pacific Research University (2013). Recognised for mentoring data science
+teams and translating complex statistical findings into clear business
+strategy.
+
+EDUCATION
+---------
+Degree          : Doctor of Philosophy
+Field of Study  : Statistics
+Institution     : Pacific Research University
+Graduation Year : 2013
+
+WORK EXPERIENCE
+---------------
+CURRENT POSITION
+  Title    : Lead Data Scientist
+  Employer : Quantica Labs
+  Industry : Technology
+  Tenure   : 11 years total experience
+
+PREVIOUS POSITION
+  Title    : Senior Data Scientist
+
+TECHNICAL SKILLS
+----------------
+Python | R | TensorFlow | Scikit-learn | SQL | Spark | Statistical Modelling
+
+SOFT SKILLS
+-----------
+Leadership | Mentoring
+
+CERTIFICATIONS
+--------------
+1. IBM Machine Learning Professional Certificate — IBM (2018)
+2. AWS Certified Data Analytics Specialty — Amazon Web Services (2020)
+
+LANGUAGES
+---------
+English  : Native
+Mandarin : Fluent
+
+================================================================================
